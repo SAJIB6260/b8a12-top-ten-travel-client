@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Exploring the Mangrove Beauty",
+      "place": "Sundarbans",
+      "image": "https://i.ibb.co/HnCjS2f/Sundarbans.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Serenity of Cox's Bazar Beach",
+      "place": "Cox's Bazar",
+      "image": "https://i.ibb.co/fM1sG9z/Cox-s-Baza.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tea Gardens of Srimangal",
+      "place": "Srimangal",
+      "image": "https://i.ibb.co/zhtVfXc/srimangal-tea-garden.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tranquility in the Hills of Bandarban",
+      "place": "Bandarban",
+      "image": "https://i.ibb.co/HxK9TLD/bandarban.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Boat Journey in Ratargul Swamp Forest",
+      "place": "Ratargul Swamp Forest",
+      "image": "https://i.ibb.co/rfK66Cn/Ratargul.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Historical Marvels of Bagerhat",
+        "place": "Bagerhat",
+        "image": "https://i.ibb.co/F0TccmC/Bagerhat.jpg"
+      }
+  ]

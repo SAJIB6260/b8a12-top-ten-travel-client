@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "tour_title": "Adventure in the Chittagong hill tracts",
+      "tour_type": "Adventure",
+      "image": "https://i.ibb.co/bQmVkXY/adventure-1.jpg",
+      "price": 2000,
+      "guide_plan": "n the Chittagong Hill Tracts, an 8-hour sojourn promises an enchanting exploration. Start with a scenic trek through verdant hills, immersing yourself in nature's embrace. Interact with local communities, unveiling their unique customs and warmth. A serene boat journey along meandering rivers unveils hidden wonders, while visits to ancient temples and historical sites offer glimpses into the region's rich heritage. Savor local cuisines during a delightful meal and capture panoramic views from elevated vantage points. Engage in cultural exchanges, witnessing traditional performances that echo the vibrant spirit of indigenous cultures. Culminate your day with a profound connection to the Chittagong Hill Tracts' diverse landscapes and cultural tapestry.",
+      "duration": 8,
+      "language": "English"
+    },
+    {
+      "id": 2,
+      "tour_title": "Ahsan Manzil Museum",
+      "tour_type": "Urban",
+      "image": "https://i.ibb.co/nByDtZZ/Urban.jpg",
+      "price": 1200,
+      "guide_plan": "Embark on a 5-hour exploration of the Ahsan Manzil Museum, immersing yourself in the regal history of this architectural gem. Begin with an overview of the site's significance before delving into the opulent rooms and exhibits, revealing the cultural tapestry of Nawabi-era Bangladesh. Wander through riverfront gardens, capturing the essence of its scenic beauty. Enjoy a reflective break at the on-site café, savoring refreshments. Engage in interactive sessions and a Q&A, enhancing your understanding. This concise itinerary combines historical immersion, cultural appreciation, and moments of contemplation for a rich and fulfilling experience at Ahsan Manzil.",
+      "duration": 5,
+      "language": "English"
+    },
+    {
+      "id": 3,
+      "tour_title": "Relaxation Retreat on Tropical Islands",
+      "tour_type": "Relaxation",
+      "image": "https://i.ibb.co/YyV8C5F/sajek.jpg",
+      "price": 2500,
+      "guide_plan": "Embark on a 12-hour odyssey in Sajek Valley, beginning with a captivating sunrise spectacle. Engage in a nature walk, immersing yourself in the valley's diverse landscapes and visiting tribal villages to absorb their rich cultures. Venture to Konglak Para and Ram Ghar for breathtaking panoramas and cultural experiences, complemented by local dance performances. Break for a traditional lunch amid the scenic beauty. Embrace moments of relaxation, perhaps by the river's edge. This carefully curated itinerary balances natural exploration, cultural immersion, and tranquil respites, ensuring a memorable and enriching day in the picturesque embrace of Sajek Valley.",
+      "duration": 12,
+      "language": "English"
+    },
+    {
+      "id": 4,
+      "tour_title": "Historical Wonders Exploration: Mahasthangarh",
+      "tour_type": "Historical",
+      "image": "https://i.ibb.co/mt30NVZ/historical.jpg",
+      "price": 1800,
+      "guide_plan": "Embark on a captivating 10-hour exploration of Mahasthangarh in Bogura. Begin by delving into the archaeological wonders of Mahasthangarh, tracing the ancient ruins and historical relics that date back to the 3rd century BC. Immerse yourself in the museum's exhibits, unveiling the region's profound cultural heritage. Explore the adjacent surroundings, including the serene Brahmaputra River and the picturesque landscape. Engage with local communities, gaining insights into their traditions. Enjoy a traditional Bengali lunch at a local eatery. Conclude the day with a visit to the Vasu Vihara Buddhist Monastery. This itinerary seamlessly weaves history, culture, and natural beauty into a memorable day in Bogura.",
+      "duration": 10,
+      "language": "English"
+    }
+  ]
